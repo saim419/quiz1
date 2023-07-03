@@ -1,4 +1,4 @@
 
-import App from './components/Quiz2';
+import App from './components/Quiz1';
 
 export default App
